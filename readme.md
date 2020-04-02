@@ -1,7 +1,7 @@
 
 ## <b>Statewise Data Analysis of COVID-19</b>
 
-The Data is provided by <a href="">Adikansh Mittal's API</a> and the shapefiles are provided by <a href = "https://www.arcgis.com/home/user.html?user=planner_vijay_meena">Vijay Meena</a>. It provides a statewise visualisation of deaths. <br><br>
+The Data is provided by <a href="https://github.com/HrithikMittal/COVID19-India-API">Adhikansh Mittal's API</a> and the shapefiles are provided by <a href = "https://www.arcgis.com/home/user.html?user=planner_vijay_meena">Vijay Meena</a>. It provides a statewise visualisation of deaths. <br><br>
 Geopandas on Windows using ```pip install geopandas``` might not work. You can follow <a href = "https://stackoverflow.com/questions/34427788/how-to-successfully-install-pyproj-and-geopandas">this</a> to sort that out. Since we are running on colab, it is not much of an issue, you can right away install it using ```pip install geopandas```.
 
 
